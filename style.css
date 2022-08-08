@@ -1,0 +1,40 @@
+.title{
+    font-size:15px;
+}
+#big_div
+{
+    
+    color:#eaeaef;
+    font-size:25px;
+    display:flex;
+    justify-content: space-around;
+}  
+
+#mega_div{
+display:flex;
+justify-content:space-around;
+}
+#descriptions{
+    width:50%;
+}
+#desc1{
+    width:60%;
+    font-family:Helvetica;
+    
+    color: #000000;
+    font-size: 28px;
+    padding:5px;
+}
+#scenes{
+display:flex;
+justify-content:space-around;
+}
+#show{
+    font-size:15px;
+    text-align: center;
+    background-color: #8484ea;
+justify-content:space-around;
+}
+body{
+    background-color:#8484ea
+}
